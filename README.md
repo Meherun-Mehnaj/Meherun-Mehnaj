@@ -20,7 +20,7 @@ I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United Int
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Meherun-Mehnaj&theme=radical=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meherun-Mehnaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meherun-Mehnaj&theme=radical_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meherun-mehnaj" alt="meherun-mehnaj" /></a> </p>
 
