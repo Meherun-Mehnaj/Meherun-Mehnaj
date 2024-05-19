@@ -3,13 +3,11 @@ I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United Int
 
 
 <h3 align="left">Socials:</h3>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meherun.mehnaj) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meherun-mehnaj) 
+<a href="https://linkedin.com/in/meherun-mehnaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherun-mehnaj" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meherun-mehnaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherun-mehnaj" height="30" width="40" /></a>
 <a href="https://kaggle.com/meherunmehnaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meherunmehnaj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/meherunmehnaz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="meherunmehnaz123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meherun_mehnaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meherun_mehnaj" height="30" width="40" /></a>
