@@ -18,7 +18,7 @@ I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United Int
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Meherun-Mehnaj&theme=radical=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Meherun-Mehnaj&theme=radical&border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meherun-Mehnaj&theme=radical&border=false&include_all_commits=false&count_private=false&layout=compact)
 
