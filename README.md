@@ -1,5 +1,5 @@
 
-### Hiii 👋<br><br>I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United International University](https://www.uiu.ac.bd/). I am currently dedicated to learning and improving my skills in this field. 
+I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United International University](https://www.uiu.ac.bd/). I am currently dedicated to learning and improving my skills in this field. 
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Meherun-Mehnaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meherun-Mehnaj&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meherun-Mehnaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
