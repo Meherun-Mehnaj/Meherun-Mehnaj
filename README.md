@@ -7,7 +7,7 @@ I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United Int
 <hr>
 
 
-<a href="[https://linkedin.com/in/meherun-mehnaj](https://www.linkedin.com/in/meherun-mehnaj-77a685216/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherun-mehnaj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meherun-mehnaj-77a685216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherun-mehnaj" height="30" width="40" /></a>
 
 
 <h3 align="left"> Accounts:</h3>
