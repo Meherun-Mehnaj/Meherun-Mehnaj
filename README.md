@@ -1,6 +1,6 @@
 
 Hiii,
-I am **Meherun Mehaj Miti**, a Data Science undergraduate student at [United International University](https://www.uiu.ac.bd/).
+I am **Meherun Mehaj Miti**, I am funny, slightly dumb and a Data Science undergraduate student at [United International University](https://www.uiu.ac.bd/).
 
 
 <h3 align="left"> Socials:</h3>
