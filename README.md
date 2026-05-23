@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Data+Science+%2B+AI+%2B+Research;LLMs%2C+NLP%2C+OCR%2C+and+Agentic+AI;A+Wannabe+Ms.+Know-It-All+with+a+spreadsheet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=900&color=FF69B4&center=true&vCenter=true&width=760&lines=Data+Science+%2B+AI+%2B+Research;LLMs%2C+NLP%2C+OCR%2C+and+Agentic+AI;A+Wannabe+Ms.+Know-It-All" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -113,29 +113,16 @@ Chaotic stat: lover of every dumb and nerdy thing
 ## GitHub Charts
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meherun-Mehnaj&theme=tokyonight&utcOffset=6" alt="Productive time" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=dracula" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meherun-Mehnaj&theme=dracula&utcOffset=6" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meherun-Mehnaj&theme=tokyonight" alt="Top languages by repository" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=tokyonight" alt="Top languages by commit" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=dracula" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Meherun-Mehnaj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meherun-Mehnaj&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=tokyonight" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meherun-Mehnaj&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=dracula" alt="Contribution summary" />
 </p>
 
 ## Elsewhere
