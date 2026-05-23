@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Meherun Mehnaj Miti</h1>
 
 <p align="center">
-  <b>I am funny, slightly dumb and a Data Science undergraduate</b> at <a href="https://www.uiu.ac.bd/">United International University</a><br />
+  <b>Funny, slightly dumb and a Data Science undergraduate</b> at <a href="https://www.uiu.ac.bd/">United International University</a><br />
   building AI, OCR, NLP, data tools, and research-backed systems that try very hard to be useful.
 </p>
 
