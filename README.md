@@ -159,12 +159,12 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=transparent" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=radical" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&hide_border=true&background=00000000&ring=e64980&fire=e64980&currStreakNum=e64980&currStreakLabel=e64980&sideNums=0579c3&sideLabels=0579c3&dates=868e96&stroke=868e96" alt="Contribution streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&theme=radical&hide_border=true&background=00000000" alt="Contribution streak" />
 </p>
 
 ## Play a Game
