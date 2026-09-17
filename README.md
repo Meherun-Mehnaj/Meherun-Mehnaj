@@ -143,8 +143,29 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meherun-Mehnaj&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=radical" alt="Contribution graph" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&theme=radical&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=radical" alt="Top languages by commit" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meherun-Mehnaj&theme=radical" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meherun-Mehnaj&theme=radical&utcOffset=6" alt="Most productive time" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Meherun-Mehnaj/Meherun-Mehnaj/output/github-snake-pink.svg" alt="Contribution snake" />
 </p>
 
 ## Say Hi
