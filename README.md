@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meherun Mehnaj Miti</h1>
 
 <p align="center">
-  Data Science undergrad at <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka, Bangladesh.<br />
+  Data Science undergrad at <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka, Bangladesh.
 </p>
 
 <p align="center">
@@ -21,10 +21,9 @@
   <a href="https://meherun-mehnaj.github.io/">
     <img src="https://img.shields.io/badge/Blog-ad8126?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
   </a>
-</p>
-
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <a href="https://kaggle.com/meherunmehnaj">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
 ## About Me
@@ -38,10 +37,6 @@ off_duty:     [Potterhead, mythology nerd, collector of pretty hardcovers]
 fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 ```
 
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
-
 ## Highlights
 
 - 🏆 **1st Runner-up, HULT Prize National Bangladesh 2026** and **HULT Prize UIU 2026** with NeuroChain
@@ -51,13 +46,9 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 - 💡 **Top Solver (Female)**, Code of Clash
 - 🤝 **Founding Joint Secretary**, UIU Data Science Club
 
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
-
 ## Experience
 
-**Archives and Digitization Manager** · *Otibeguni* · Nov 2024 – Present
+**Archives and Digitization Manager** · *Otibeguni* · Nov 2024 – Present · [code](https://github.com/Meherun-Mehnaj/Otibeguni-Book-Digitization)
 
 - Built an OCR/NLP workflow (pytesseract, OpenCV, pandas, spaCy, ChatGPT API) that **cut manual correction effort by 30%**
 - Extracting and cleaning hard-to-read text from old **Bangla and Sylheti Nagri** documents so rare archival material can actually be used
@@ -75,22 +66,18 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 
 - Supported an AI-based **Prescription Audit System** for ML-based error detection, and coordinated its documentation and research operations
 
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
-
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 GraphReAct <sub><i>ongoing</i></sub></h3>
+      <h3>🧠 <a href="https://github.com/Meherun-Mehnaj/GraphReAct">GraphReAct</a> <sub><i>ongoing</i></sub></h3>
       <p>An AGoT-ReAct reasoning framework that combines Algorithm of Thoughts with ReAct for GPQA math reasoning, using DeepSeek and Qwen models.</p>
       <p>Best average score among CoT, GoT, AGoT and ReAct (<b>31.91%</b>), and <b>56.8% fewer reasoning steps</b> for Qwen than plain ReAct.</p>
       <p><code>LLM Reasoning</code> <code>ReAct</code> <code>Graph of Thoughts</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 CausalTrace-MLSD</h3>
+      <h3>🔍 <a href="https://github.com/Meherun-Mehnaj/CausalTrace-MLSD">CausalTrace-MLSD</a></h3>
       <p>A reproducible MLOps pipeline that tests ROME and MEMIT knowledge edits on GPT-2 XL with a custom Causal Consistency Score across 200 prediction runs.</p>
       <p>Found <b>"ghost edits"</b>: ROME hit <b>93.8%</b> edit success but only <b>17.9%</b> causal consistency.</p>
       <p><code>Knowledge Editing</code> <code>DVC</code> <code>Feast</code> <code>MLflow</code> <code>FastAPI</code></p>
@@ -98,24 +85,20 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 NeuroChain</h3>
+      <h3>🩺 <a href="https://github.com/Meherun-Mehnaj/NeuroChain">NeuroChain</a></h3>
       <p>A full-stack AI platform for autism assessment, gamified therapy and specialist collaboration.</p>
       <p><b>1st Runner-up</b> at HULT Prize National Bangladesh 2026 and HULT Prize UIU 2026 · <b>National Finalist</b> at Solvio AI Hackathon 2025</p>
       <p><code>AI Healthcare</code> <code>Full-stack</code> <code>DBMS</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📚 More Builds</h3>
-      <p><b>MediaMorphBD</b>: a government-stance classification dataset, built through careful data wrangling.</p>
+      <p><b><a href="https://github.com/Meherun-Mehnaj/MediaMorphBD-Government-Stance-Classification-Dataset">MediaMorphBD</a></b>: a government-stance classification dataset, built through careful data wrangling.</p>
       <p><b>Tribal Threads</b>: an app concept for promoting Indigenous crafts.</p>
       <p><b><a href="https://meherun-mehnaj.github.io/portfolio-website/">Portfolio Website</a></b>: my projects, experience and awards in one place.</p>
       <p><code>Dataset</code> <code>Social Impact</code> <code>Web</code></p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
 
 ## Tech Stack
 
@@ -157,49 +140,17 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=dracula" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meherun-Mehnaj&theme=dracula&utcOffset=6" alt="Productive time" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=radical" alt="Top languages by commit" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=dracula" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=dracula" alt="Contribution summary" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
-</p>
-
-## Where Else to Find Me
-
-<p align="center">
-  <a href="https://kaggle.com/meherunmehnaj">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://codeforces.com/profile/meherunmehnaz123">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.leetcode.com/meherun_mehnaj">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+## Say Hi
 
 <p align="center">
   Always happy to talk about LLMs, OCR, research ideas or a good book. My inbox is open.
-</p>
-
-<p align="center">
-  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 <p align="center">
@@ -207,5 +158,5 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img src="assests/footer.svg" width="100%" alt="Thanks for fluttering by" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for fluttering by" />
 </p>
