@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+</p>
+
 ## About Me
 
 ```yaml
@@ -65,6 +69,10 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 **Project Coordinator Intern** · *AIMS Lab, IRIIC, UIU* · Oct 2024 – Jan 2025
 
 - Supported an AI-based **Prescription Audit System** for ML-based error detection, and coordinated its documentation and research operations
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+</p>
 
 ## Featured Projects
 
@@ -138,6 +146,10 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" alt="Airtable" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## GitHub Stats
