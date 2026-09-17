@@ -175,7 +175,6 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   </a>
 </p>
 
-
 <p align="center">
   <i>Building useful AI systems, hoarding oddly specific knowledge, and politely asking the data to behave.</i>
 </p>
