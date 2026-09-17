@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="60" viewBox="0 0 1000 60" role="img" aria-label="butterflies and sparkles">
+  <defs>
+    <!-- pastel wing gradients: pink, blue, yellow, green -->
+    <linearGradient id="pinkA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6fa5"/><stop offset="1" stop-color="#ffc2d9"/></linearGradient>
+    <linearGradient id="pinkB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffa8c9"/><stop offset="1" stop-color="#ffdeeb"/></linearGradient>
+    <linearGradient id="blueA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#74c0fc"/><stop offset="1" stop-color="#d0ebff"/></linearGradient>
+    <linearGradient id="blueB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a5d8ff"/><stop offset="1" stop-color="#e7f5ff"/></linearGradient>
+    <linearGradient id="yellowA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fcc419"/><stop offset="1" stop-color="#fff3bf"/></linearGradient>
+    <linearGradient id="yellowB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe066"/><stop offset="1" stop-color="#fff9db"/></linearGradient>
+    <linearGradient id="greenA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#69db7c"/><stop offset="1" stop-color="#d3f9d8"/></linearGradient>
+    <linearGradient id="greenB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#96f2d7"/><stop offset="1" stop-color="#e6fcf5"/></linearGradient>
+
+    <path id="upper" d="M0,-1 C-5,-17 -25,-24 -24,-9 C-23,-1 -9,2 0,0 Z"/>
+    <path id="lower" d="M0,1 C-9,2 -19,9 -15,17 C-11,23 -2,13 0,3 Z"/>
+
+    <g id="wingPink"><use href="#upper" xlink:href="#upper" fill="url(#pinkA)"/><use href="#lower" xlink:href="#lower" fill="url(#pinkB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingBlue"><use href="#upper" xlink:href="#upper" fill="url(#blueA)"/><use href="#lower" xlink:href="#lower" fill="url(#blueB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingYellow"><use href="#upper" xlink:href="#upper" fill="url(#yellowA)"/><use href="#lower" xlink:href="#lower" fill="url(#yellowB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingGreen"><use href="#upper" xlink:href="#upper" fill="url(#greenA)"/><use href="#lower" xlink:href="#lower" fill="url(#greenB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+
+    <g id="body">
+      <ellipse rx="1.8" ry="9" fill="#6b4a5a"/>
+      <path d="M-0.5,-8 Q-3,-15 -6.5,-17 M0.5,-8 Q3,-15 6.5,-17" stroke="#6b4a5a" stroke-width="1" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g id="bfPink"><g><use href="#wingPink" xlink:href="#wingPink"/><use href="#wingPink" xlink:href="#wingPink" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.15 1;1 1" dur="0.32s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfBlue"><g><use href="#wingBlue" xlink:href="#wingBlue"/><use href="#wingBlue" xlink:href="#wingBlue" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.15 1;1 1" dur="0.38s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfYellow"><g><use href="#wingYellow" xlink:href="#wingYellow"/><use href="#wingYellow" xlink:href="#wingYellow" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.15 1;1 1" dur="0.3s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfGreen"><g><use href="#wingGreen" xlink:href="#wingGreen"/><use href="#wingGreen" xlink:href="#wingGreen" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.15 1;1 1" dur="0.35s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+
+    <path id="spark" d="M0,-10 C1,-2 2,-1 10,0 C2,1 1,2 0,10 C-1,2 -2,1 -10,0 C-2,-1 -1,-2 0,-10 Z"/>
+
+    <!-- flight paths with loop-de-loops; butterflies turn to face the way they fly (rotate="auto") -->
+    <path id="pathA" d="M-40,32 C60,14 120,46 200,30 c30,-6 30,-16 14,-16 c-16,0 -18,16 12,18 C320,38 420,18 520,30 S660,44 740,28 c30,-6 30,-16 14,-16 c-16,0 -18,16 12,18 C860,36 960,22 1040,30"/>
+    <path id="pathB" d="M1040,36 C940,20 880,48 780,32 c-30,-6 -30,-16 -14,-16 c16,0 18,16 -12,18 C660,40 560,20 460,34 S320,46 240,30 c-30,-6 -30,-16 -14,-16 c16,0 18,16 -12,18 C120,38 40,24 -40,32"/>
+    <path id="pathC" d="M-40,26 C80,44 160,16 300,32 c30,6 30,16 14,16 c-16,0 -18,-16 12,-18 C440,20 560,42 660,28 S820,18 900,34 C960,42 1000,28 1040,26"/>
+    <path id="pathD" d="M1040,24 C920,40 840,18 700,30 c-30,6 -30,16 -14,16 c16,0 18,-16 -12,-18 C560,20 460,40 360,28 S200,18 120,34 C60,42 0,30 -40,28"/>
+  </defs>
+
+  <!-- twinkling background sparkles in all four pastels -->
+  <g fill="#ff8fb8">
+    <g transform="translate(140 18)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.6;0" dur="2.3s" begin="0.7s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(620 38)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.6;0" dur="2s" begin="1.6s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(960 44)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.5;0" dur="1.7s" begin="0.3s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#74c0fc">
+    <g transform="translate(300 16)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.8;0" dur="2s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(870 20)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.6;0" dur="2.5s" begin="1.2s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#fcc419">
+    <g transform="translate(420 44)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.55;0" dur="2s" begin="0.5s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(60 40)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.5;0" dur="1.8s" begin="0.9s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#51cf66">
+    <g transform="translate(700 14)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.7;0" dur="2s" begin="1.5s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(510 46)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.6;0" dur="1.9s" begin="0.2s" repeatCount="indefinite"/></g></g>
+  </g>
+
+  <!-- glitter trails: tiny sparkles on the same path, a beat behind each butterfly -->
+  <g fill="#ff8fb8">
+    <g><animateMotion dur="12s" begin="-0.75s" repeatCount="indefinite"><mpath href="#pathA" xlink:href="#pathA"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.3)"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="0.7s" repeatCount="indefinite"/></g>
+    <g><animateMotion dur="12s" begin="-0.5s" repeatCount="indefinite"><mpath href="#pathA" xlink:href="#pathA"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.2)"/><animate attributeName="opacity" values="0.6;0;0.6" dur="0.9s" repeatCount="indefinite"/></g>
+  </g>
+  <g fill="#74c0fc">
+    <g><animateMotion dur="16s" begin="-7.75s" repeatCount="indefinite"><mpath href="#pathB" xlink:href="#pathB"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.3)"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="0.8s" repeatCount="indefinite"/></g>
+    <g><animateMotion dur="16s" begin="-7.45s" repeatCount="indefinite"><mpath href="#pathB" xlink:href="#pathB"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.2)"/><animate attributeName="opacity" values="0.6;0;0.6" dur="1s" repeatCount="indefinite"/></g>
+  </g>
+  <g fill="#fcc419">
+    <g><animateMotion dur="14s" begin="-9.75s" repeatCount="indefinite"><mpath href="#pathC" xlink:href="#pathC"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.3)"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="0.6s" repeatCount="indefinite"/></g>
+    <g><animateMotion dur="14s" begin="-9.5s" repeatCount="indefinite"><mpath href="#pathC" xlink:href="#pathC"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.2)"/><animate attributeName="opacity" values="0.6;0;0.6" dur="0.9s" repeatCount="indefinite"/></g>
+  </g>
+
+  <!-- butterflies: follow the path, face forward, and wobble side to side as they flap -->
+  <g>
+    <animateMotion dur="12s" begin="-1s" repeatCount="indefinite" rotate="auto"><mpath href="#pathA" xlink:href="#pathA"/></animateMotion>
+    <g transform="scale(0.62)"><g><use href="#bfPink" xlink:href="#bfPink"/><animateTransform attributeName="transform" type="rotate" values="78;102;84;96;78" dur="1.4s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g>
+    <animateMotion dur="16s" begin="-8s" repeatCount="indefinite" rotate="auto"><mpath href="#pathB" xlink:href="#pathB"/></animateMotion>
+    <g transform="scale(0.55)"><g><use href="#bfBlue" xlink:href="#bfBlue"/><animateTransform attributeName="transform" type="rotate" values="80;104;86;98;80" dur="1.7s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g>
+    <animateMotion dur="14s" begin="-10s" repeatCount="indefinite" rotate="auto"><mpath href="#pathC" xlink:href="#pathC"/></animateMotion>
+    <g transform="scale(0.5)"><g><use href="#bfYellow" xlink:href="#bfYellow"/><animateTransform attributeName="transform" type="rotate" values="76;100;82;94;76" dur="1.2s" repeatCount="indefinite"/></g></g>
+  </g>
+</svg>

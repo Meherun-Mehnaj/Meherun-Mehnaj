@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Thanks for fluttering by">
+  <defs>
+    <!-- rainbow-pastel shimmer for the text, sliding sideways on a loop -->
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#f06595"/>
+      <stop offset="0.25" stop-color="#4dabf7"/>
+      <stop offset="0.5" stop-color="#40c057"/>
+      <stop offset="0.75" stop-color="#fab005"/>
+      <stop offset="1" stop-color="#f06595"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1000 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="pinkA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6fa5"/><stop offset="1" stop-color="#ffc2d9"/></linearGradient>
+    <linearGradient id="pinkB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffa8c9"/><stop offset="1" stop-color="#ffdeeb"/></linearGradient>
+    <linearGradient id="blueA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#74c0fc"/><stop offset="1" stop-color="#d0ebff"/></linearGradient>
+    <linearGradient id="blueB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a5d8ff"/><stop offset="1" stop-color="#e7f5ff"/></linearGradient>
+    <linearGradient id="yellowA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fcc419"/><stop offset="1" stop-color="#fff3bf"/></linearGradient>
+    <linearGradient id="yellowB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe066"/><stop offset="1" stop-color="#fff9db"/></linearGradient>
+    <linearGradient id="greenA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#69db7c"/><stop offset="1" stop-color="#d3f9d8"/></linearGradient>
+    <linearGradient id="greenB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#96f2d7"/><stop offset="1" stop-color="#e6fcf5"/></linearGradient>
+
+    <path id="upper" d="M0,-1 C-5,-17 -25,-24 -24,-9 C-23,-1 -9,2 0,0 Z"/>
+    <path id="lower" d="M0,1 C-9,2 -19,9 -15,17 C-11,23 -2,13 0,3 Z"/>
+
+    <g id="wingPink"><use href="#upper" xlink:href="#upper" fill="url(#pinkA)"/><use href="#lower" xlink:href="#lower" fill="url(#pinkB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingBlue"><use href="#upper" xlink:href="#upper" fill="url(#blueA)"/><use href="#lower" xlink:href="#lower" fill="url(#blueB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingYellow"><use href="#upper" xlink:href="#upper" fill="url(#yellowA)"/><use href="#lower" xlink:href="#lower" fill="url(#yellowB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+    <g id="wingGreen"><use href="#upper" xlink:href="#upper" fill="url(#greenA)"/><use href="#lower" xlink:href="#lower" fill="url(#greenB)"/><circle cx="-15" cy="-10" r="2.6" fill="#fff" opacity="0.75"/></g>
+
+    <g id="body">
+      <ellipse rx="1.8" ry="9" fill="#6b4a5a"/>
+      <path d="M-0.5,-8 Q-3,-15 -6.5,-17 M0.5,-8 Q3,-15 6.5,-17" stroke="#6b4a5a" stroke-width="1" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g id="bfPink"><g><use href="#wingPink" xlink:href="#wingPink"/><use href="#wingPink" xlink:href="#wingPink" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.2 1;1 1" dur="0.32s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfBlue"><g><use href="#wingBlue" xlink:href="#wingBlue"/><use href="#wingBlue" xlink:href="#wingBlue" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.2 1;1 1" dur="0.38s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfYellow"><g><use href="#wingYellow" xlink:href="#wingYellow"/><use href="#wingYellow" xlink:href="#wingYellow" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.2 1;1 1" dur="0.3s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+    <g id="bfGreen"><g><use href="#wingGreen" xlink:href="#wingGreen"/><use href="#wingGreen" xlink:href="#wingGreen" transform="scale(-1 1)"/><animateTransform attributeName="transform" type="scale" values="1 1;0.2 1;1 1" dur="0.35s" repeatCount="indefinite"/></g><use href="#body" xlink:href="#body"/></g>
+
+    <path id="spark" d="M0,-10 C1,-2 2,-1 10,0 C2,1 1,2 0,10 C-1,2 -2,1 -10,0 C-2,-1 -1,-2 0,-10 Z"/>
+    <path id="fA" d="M-50,70 C100,20 220,100 340,50 c50,-20 50,-40 20,-40 c-30,0 -30,40 20,40 C500,50 640,100 760,60 S920,30 1050,40"/>
+    <path id="fB" d="M1050,90 C900,30 780,100 660,70 c-50,-10 -50,-40 -20,-40 c30,0 30,40 -20,40 C500,70 380,20 260,60 S100,100 -60,80"/>
+    <path id="fC" d="M-50,30 C120,90 260,20 420,80 c50,15 50,28 20,28 c-30,0 -30,-28 20,-28 C600,80 760,20 880,60 S1000,80 1050,70"/>
+    <path id="fD" d="M1050,40 C860,100 720,20 580,50 c-50,-15 -50,-35 -20,-35 c30,0 30,35 -20,35 C400,60 260,100 140,60 S20,40 -60,60"/>
+  </defs>
+  <text x="500" y="62" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#shine)">thanks for fluttering by</text>
+  <text x="500" y="90" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#e64980" opacity="0.85">go drink some water and star a repo you like</text>
+
+  <g fill="#ff8fb8">
+    <g transform="translate(250 40)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;1;0" dur="2.2s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#74c0fc">
+    <g transform="translate(770 55)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.8;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#fcc419">
+    <g transform="translate(720 25)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.7;0" dur="1.9s" begin="0.4s" repeatCount="indefinite"/></g></g>
+  </g>
+  <g fill="#51cf66">
+    <g transform="translate(290 80)"><g transform="scale(0)"><use href="#spark" xlink:href="#spark"/><animateTransform attributeName="transform" type="scale" values="0;0.7;0" dur="2.1s" begin="1.3s" repeatCount="indefinite"/></g></g>
+  </g>
+
+  <!-- glitter trails, a beat behind each butterfly -->
+  <g fill="#ff8fb8"><animateMotion dur="15s" begin="-0.6s" repeatCount="indefinite"><mpath href="#fA" xlink:href="#fA"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.35)"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="0.7s" repeatCount="indefinite"/></g>
+  <g fill="#74c0fc"><animateMotion dur="19s" begin="-7.6s" repeatCount="indefinite"><mpath href="#fB" xlink:href="#fB"/></animateMotion><use href="#spark" xlink:href="#spark" transform="scale(0.35)"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="0.8s" repeatCount="indefinite"/></g>
+
+  <!-- butterflies with loop-de-loops, facing the way they fly -->
+  <g>
+    <animateMotion dur="15s" begin="-1s" repeatCount="indefinite" rotate="auto"><mpath href="#fA" xlink:href="#fA"/></animateMotion>
+    <g><use href="#bfPink" xlink:href="#bfPink"/><animateTransform attributeName="transform" type="rotate" values="78;104;84;98;78" dur="1.5s" repeatCount="indefinite"/></g>
+  </g>
+  <g>
+    <animateMotion dur="19s" begin="-8s" repeatCount="indefinite" rotate="auto"><mpath href="#fB" xlink:href="#fB"/></animateMotion>
+    <g transform="scale(0.8)"><g><use href="#bfBlue" xlink:href="#bfBlue"/><animateTransform attributeName="transform" type="rotate" values="80;104;86;98;80" dur="1.8s" repeatCount="indefinite"/></g></g>
+  </g>
+</svg>
