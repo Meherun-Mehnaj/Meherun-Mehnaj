@@ -167,11 +167,6 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&hide_border=true&background=00000000&ring=e64980&fire=e64980&currStreakNum=e64980&currStreakLabel=e64980&sideNums=0579c3&sideLabels=0579c3&dates=868e96&stroke=868e96" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=transparent" alt="Top languages by commit" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meherun-Mehnaj&theme=transparent" alt="Repos per language" />
-</p>
-
 ## Play a Game
 
 <p align="center">
