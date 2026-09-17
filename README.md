@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## About Me
@@ -39,7 +39,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 ```
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## Highlights
@@ -52,7 +52,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 - 🤝 **Founding Joint Secretary**, UIU Data Science Club
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## Experience
@@ -76,7 +76,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 - Supported an AI-based **Prescription Audit System** for ML-based error detection, and coordinated its documentation and research operations
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## Featured Projects
@@ -114,7 +114,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </table>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## Tech Stack
@@ -158,7 +158,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 ## GitHub Stats
@@ -199,7 +199,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="butterflies and sparkles" />
+  <img src="assests/divider.svg" width="100%" alt="butterflies and sparkles" />
 </p>
 
 <p align="center">
@@ -207,5 +207,5 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for fluttering by" />
+  <img src="assests/footer.svg" width="100%" alt="Thanks for fluttering by" />
 </p>
