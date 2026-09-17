@@ -159,35 +159,30 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=radical" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meherun-Mehnaj&theme=transparent" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=radical" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&theme=radical&hide_border=true" alt="Contribution streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meherun-Mehnaj&theme=transparent" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Meherun-Mehnaj&hide_border=true&background=00000000&ring=e64980&fire=e64980&currStreakNum=e64980&currStreakLabel=e64980&sideNums=0579c3&sideLabels=0579c3&dates=868e96&stroke=868e96" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=radical" alt="Top languages by commit" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meherun-Mehnaj&theme=radical" alt="Repos per language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meherun-Mehnaj&theme=transparent" alt="Top languages by commit" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meherun-Mehnaj&theme=transparent" alt="Repos per language" />
 </p>
 
+## Play a Game
+
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meherun-Mehnaj&theme=radical&utcOffset=6" alt="Most productive time" />
+  <a href="https://meherun-mehnaj.github.io/butterfly-catch/">
+    <img src="assets/game-banner.svg" width="100%" alt="Play Butterfly Catch" />
+  </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Meherun-Mehnaj/Meherun-Mehnaj/output/github-snake-pink.svg" alt="Contribution snake" />
-</p>
-
-## Say Hi
 
 <p align="center">
-  Always happy to talk about LLMs, OCR, research ideas or a good book. My inbox is open.
-</p>
-
-<p align="center">
-  <i>✨ Building useful AI systems, hoarding oddly specific knowledge, and politely asking the data to behave. ✨</i>
+  <i>Building useful AI systems, hoarding oddly specific knowledge, and politely asking the data to behave.</i>
 </p>
 
 <p align="center">
