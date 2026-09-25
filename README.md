@@ -93,6 +93,20 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/Meherun-Mehnaj/BlockChain_FinClaim">FinClaim</a></h3>
+      <p>A confidential registry that lets rival Bangladeshi lenders check whether a receivable is already pledged, without revealing client lists, pricing or positions to each other.</p>
+      <p>Built for the <b>Blockchain Olympiad Bangladesh 2026</b> prototype round, around the Secured Transactions Act 2023.</p>
+      <p><code>Hyperledger Fabric</code> <code>Next.js</code> <code>TypeScript</code> <code>AES-256-GCM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📞 <a href="https://github.com/Meherun-Mehnaj/CallShield-App">CallShield</a></h3>
+      <p>A web app that warns bKash and Nagad users about AI voice-clone scam calls, and explains the danger in plain Bangla.</p>
+      <p>Predicts the scammer's next move, coaches you on questions a real agent could answer, and raises an alarm when a payment code arrives. It works offline and keeps all data on the phone.</p>
+      <p><code>PWA</code> <code>JavaScript</code> <code>Bangla TTS</code> <code>Fraud Prevention</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/Meherun-Mehnaj/NeuroChain">NeuroChain</a></h3>
       <p>A full-stack AI platform for autism assessment, gamified therapy and specialist collaboration.</p>
       <p><b>1st Runner-up</b> at HULT Prize National Bangladesh 2026 and HULT Prize UIU 2026 · <b>National Finalist</b> at Solvio AI Hackathon 2025</p>
@@ -101,7 +115,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
     <td width="50%" valign="top">
       <h3>📚 More Builds</h3>
       <p><b><a href="https://github.com/Meherun-Mehnaj/MediaMorphBD-Government-Stance-Classification-Dataset">MediaMorphBD</a></b>: a government-stance classification dataset, built through careful data wrangling.</p>
-      <p><b>Tribal Threads</b>: an app concept for promoting Indigenous crafts.</p>
+      <p><b><a href="https://github.com/Meherun-Mehnaj/Tribal-Threads">Tribal Threads</a></b>: an app concept for promoting Indigenous crafts.</p>
       <p><b><a href="https://meherun-mehnaj.github.io/portfolio-website/">Portfolio Website</a></b>: my projects, experience and awards in one place.</p>
       <p><code>Dataset</code> <code>Social Impact</code> <code>Web</code></p>
     </td>
