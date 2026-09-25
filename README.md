@@ -184,7 +184,7 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 ## Play a Game
 
 <p align="center">
-  <a href="https://meherun-mehnaj.github.io/butterfly-catch/">
+  <a href="https://meherun-mehnaj.github.io/Meherun-Mehnaj-Blog/butterfly-catch/">
     <img src="assets/game-banner.svg" width="100%" alt="Play Butterfly Catch" />
   </a>
 </p>
