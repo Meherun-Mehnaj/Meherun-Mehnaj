@@ -36,7 +36,7 @@
 name:         Meherun Mehnaj Miti
 studying:     B.Sc. in Data Science @ United International University (2023 – present)
 research:     [LLMs, VLM reasoning, Computer Vision, Prompt Engineering, OCR pipelines]
-currently:    TA @ UIU · Archives & Digitization Manager @ Otibeguni · building GraphReAct
+currently:    TA @ UIU · Python instructor @ UIU Data Science Club · building GraphReAct
 off_duty:     [Potterhead, mythology nerd, collector of pretty hardcovers]
 fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 ```
@@ -52,15 +52,15 @@ fun_fact:     equally excited by dumb jokes and nerdy rabbit holes
 
 ## Experience
 
-**Archives and Digitization Manager** · *Otibeguni* · Nov 2024 – Present · [code](https://github.com/Meherun-Mehnaj/Otibeguni-Book-Digitization)
-
-- Built an OCR/NLP workflow (pytesseract, OpenCV, pandas, spaCy, ChatGPT API) that **cut manual correction effort by 30%**
-- Extracting and cleaning hard-to-read text from old **Bangla and Sylheti Nagri** documents so rare archival material can actually be used
-
 **Undergraduate Teaching Assistant** · *United International University* · Jul 2024 – Present
 
 - Labs: Programming for Data Science (DS-1502), OOP for Data Science (DS-1116), Data Structures & Algorithms II (CSE-2218)
 - Write problem sets and run support sessions that build students' Python fundamentals
+
+**Archives and Digitization Manager** · *Otibeguni* · Nov 2024 – Jan 2026 · [code](https://github.com/Meherun-Mehnaj/Otibeguni-Book-Digitization)
+
+- Built an OCR/NLP workflow (pytesseract, OpenCV, pandas, spaCy, ChatGPT API) that **cut manual correction effort by 30%**
+- Extracted and cleaned hard-to-read text from old **Bangla and Sylheti Nagri** documents so rare archival material can actually be used
 
 **Data Science & Python Instructor** · *UIU Data Science Club* · Feb 2025 – Present
 
